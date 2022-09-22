@@ -42,6 +42,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'factory_bot_rails' 
   gem 'faker'
+  
 end
 
 group :development do
@@ -52,4 +53,12 @@ end
 group :test do
   gem 'database_cleaner'
   gem 'shoulda-matchers'
+  # simplecov: A code coverage analysis tool for Ruby.
+  # @see: { https://github.com/simplecov-ruby/simplecov }
+  gem 'simplecov'
+
+  # fuubar: A instafailing RSpec formatter that uses a progress bar dots as feedback.
+  # @see: { https://github.com/thekompanee/fuubar }
+  gem 'fuubar'
+
 end

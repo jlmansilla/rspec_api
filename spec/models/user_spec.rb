@@ -1,4 +1,4 @@
-frrequire 'rails_helper'
+require 'rails_helper'
 
 describe User do
   context 'when create a user' do

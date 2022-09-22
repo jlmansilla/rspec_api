@@ -6,7 +6,7 @@ RSpec.configure do |config|
     DatabaseCleaner.strategy = :transaction
     DatabaseCleaner.clean_with(:truncation)
 
-    require Rails.root.join(Rails.root, 'db', 'seeds', 'test')
+    #require Rails.root.join(Rails.root, 'db', 'seeds', 'test')
   end
 
   config.before(:each) do
