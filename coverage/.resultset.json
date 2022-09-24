@@ -177,6 +177,35 @@
           null
         ]
       },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/factories/bills.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/factories/dishes.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/factories/tables.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/factories/users.rb": {
         "lines": [
           1,
@@ -211,11 +240,153 @@
           null,
           null,
           1,
-          1,
+          12,
           null,
           null,
           1,
+          12,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/app/models/bill.rb": {
+        "lines": [
           1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/models/dish_spec.rb": {
+        "lines": [
+          1,
+          1,
+          5,
+          null,
+          null,
+          null,
+          null,
+          2,
+          2,
+          null,
+          null,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/app/models/dish.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/models/table_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          5,
+          null,
+          null,
+          null,
+          null,
+          2,
+          2,
+          null,
+          null,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/app/models/table.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/spec/models/user_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          2,
+          null,
           null,
           null
         ]
@@ -243,15 +414,8 @@
           null,
           null
         ]
-      },
-      "C:/Users/JL/Downloads/Bootcamp/Modulo 9/test/rspec_api/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1663806757
+    "timestamp": 1663975829
   }
 }

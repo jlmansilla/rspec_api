@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :user do
-    name { "MyString" }
+    name { Faker::Name.name }
     like { 1 }
   end
 end
